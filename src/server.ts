@@ -1,7 +1,7 @@
 import express from "express";
 
 import api from "./express";
-import { PORT } from "./env";
+import { PORT } from "../env";
 
 const app = express();
 
